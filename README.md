@@ -20,13 +20,13 @@
 
 ## What you will build
 
-A clean, accessible, responsive one-page website with your name, what you do, your projects, your skills and how to contact you, live at `https://your-username.github.io/portfolio/`. It is the final project of the free **Developer foundations** (on ewoibuilds.com: `/paths/developer-foundations`) path. The full guide, step by step: **Your portfolio website, live** (on ewoibuilds.com: `/projects/portfolio-website`).
+A clean, accessible, responsive one-page website with your name, what you do, your projects, your skills and how to contact you, live at `https://your-username.github.io/portfolio/`. It is the final project of the free [Developer foundations](https://ewoibuilds.com/paths/developer-foundations) path. The full guide, step by step: [Your portfolio website, live](https://ewoibuilds.com/projects/portfolio-website).
 
 ## What you need
 
 - A laptop or desktop and a stable internet connection
 - Operating system: Windows 10 or 11, macOS or Linux
-- Prerequisites: **Your first commit, explained** (on ewoibuilds.com: `/lessons/your-first-commit-explained`) and **Branches without fear** (on ewoibuilds.com: `/lessons/branches-without-fear`), or the same Git skills
+- Prerequisites: [Your first commit, explained](https://ewoibuilds.com/lessons/your-first-commit-explained) and [Branches without fear](https://ewoibuilds.com/lessons/branches-without-fear), or the same Git skills
 - Tools (search for each on its official site; download only from the official site):
   - Git 2.28 or newer: search for "Git official download" (on Windows, use the **Git Bash** it installs)
   - A code editor, such as Visual Studio Code: search for "VS Code official download"
